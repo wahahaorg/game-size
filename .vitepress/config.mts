@@ -44,6 +44,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '总览', link: '/community/' },
+          { text: '游戏站案例复盘', link: '/community/game-site-cases' },
           { text: 'AdSense 审核实录', link: '/community/adsense-stories' },
           { text: '工具站 vs 内容站', link: '/community/tool-vs-content' },
           { text: '改版代价与维护', link: '/community/update-risks' },
